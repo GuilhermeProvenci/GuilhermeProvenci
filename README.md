@@ -13,9 +13,10 @@
 
 
 [![GuilhermeProvenci GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeProvenci)](https://github.com/GuilhermeProvenci/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GuilhermeProvenci)](https://github.com/GuilhermeProvenci/github-readme-stats)
 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link)]
 
 
 - Thanks for visiting.
