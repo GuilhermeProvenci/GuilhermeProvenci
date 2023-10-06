@@ -1,16 +1,23 @@
-### Hi there 👋
+# Welcome!
 
-<!--
-**GuilhermeProvenci/GuilhermeProvenci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
+## I'm Guilherme Provenci de Lima!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently learning Delphi and PHP.
+
+:outbox_tray: 2023 Goals: finalize my project and structure my startup.
+
+
+[![GuilhermeProvenci GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeProvenci)](https://github.com/GuilhermeProvenci/github-readme-stats)
+
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link)
+
+
+- Thanks for visiting.
+
+- Enjoy it!! o/
