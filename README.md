@@ -16,7 +16,8 @@
 
 [![Github Badge](https://img.shields.io/badge/-GuilhermeProvenci-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GuilhermeProvenci)](https://github.com/GuilhermeProvenci)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Provenci-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-provenci/)]([https://www.linkedin.com/in/guilherme-provenci/](https://www.linkedin.com/in/guilherme-lima-a20a10269/))
+[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Provenci-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-lima-a20a10269/)](https://www.linkedin.com/in/guilherme-lima-a20a10269/)
+
 
 ## A Little More About Me
 
