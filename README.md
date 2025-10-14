@@ -1,31 +1,63 @@
-# Welcome to My Profile!
+# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00FF88&center=true&width=500&lines=Welcome+to+my+profile+:);Guilherme+Provenci" alt="Typing SVG" /></div>
 
-## About Me
+<div align="center">
 
-- :house_with_garden: I'm Guilherme Provenci de Lima, hailing from Brazil.
-- :computer: I am passionate about coding and technology.
-- :books: Currently, I'm delving into the worlds of Delphi, PHP and JS.
+```
+ ╔═══════════════════════════════════════════════════════╗
+ ║         ~/guilherme-provenci                          ║
+ ║                                                       ║
+ ║  $ whoami                                             ║
+ ║  > Guilherme Provenci de Lima                         ║
+ ║                                                       ║
+ ║  🎯 Developer | 🚀 Automation Enthusiast             ║
+ ╚═══════════════════════════════════════════════════════╝
+```
 
-## GitHub Statistics
+</div>
 
-[![GuilhermeProvenci GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeProvenci&show_icons=true&theme=dark)](https://github.com/GuilhermeProvenci/github-readme-stats)
+---
 
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GuilhermeProvenci&layout=compact)](https://github.com/GuilhermeProvenci/github-readme-stats)
+## 🛠️ Main Tech Stack
 
-## Connect with Me
+![Delphi](https://img.shields.io/badge/-Delphi-CC342D?style=flat-square&logo=delphi&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-[![Github Badge](https://img.shields.io/badge/-GuilhermeProvenci-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GuilhermeProvenci)](https://github.com/GuilhermeProvenci)
+### Also Working With
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF6B6B?style=flat-square&logo=api&logoColor=white)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Provenci-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-lima-a20a10269/)](https://www.linkedin.com/in/guilherme-lima-a20a10269/)
+---
 
+## 📊 Top Languages
 
-## A Little More About Me
+<div align="center">
 
-- 🌱 I love exploring new technologies and frameworks.
-- 🤖 I seek to facilitate my life through new implementations, automating manual processes.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeProvenci&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=58a6ff)
 
+</div>
+---
 
-## Thanks for Visiting!
+## 🔗 Connect
 
-- Feel free to explore my projects and repositories.
-- Enjoy your time here! o/
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/GuilhermeProvenci)](https://github.com/GuilhermeProvenci)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-lima-a20a10269/)](https://www.linkedin.com/in/guilherme-lima-a20a10269/)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+$ echo "Let's build something"
+> _
+```
+
+<img src="https://komarev.com/ghpvc/?username=GuilhermeProvenci&color=00ff88&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
+</div>
