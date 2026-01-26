@@ -9,43 +9,72 @@
  ║  $ whoami                                             ║
  ║  > Guilherme Provenci de Lima                         ║
  ║                                                       ║
- ║  🎯 Developer | 🚀 Automation Enthusiast             ║
+ ║  🎯 Software Developer | 🚀 Backend & Automation     ║
  ╚═══════════════════════════════════════════════════════╝
 ```
+---
 
-</div>
+## 🧠 About Me
+
+Sou desenvolvedor com foco atual em **backend moderno com JavaScript e TypeScript**, atuando em projetos reais de produção, incluindo **APIs escaláveis**, **automação de processos** e **integrações com banco de dados**.
+
+Possuo sólida experiência com **Delphi** em sistemas corporativos e legados, além de atuação prática com **Node.js**, **Express** e **PostgreSQL** em ambientes de produção.
+
+---
+
+## 🚧 Current Project
+
+**Leite Fácil** *(Private Repository)*
+
+- Node.js + TypeScript
+- Express
+- Prisma ORM
+- PostgreSQL
+- REST APIs
+- Auth, roles, logs, migrations
 
 ---
 
 ## 🛠️ Main Tech Stack
 
-![Delphi](https://img.shields.io/badge/-Delphi-CC342D?style=flat-square&logo=delphi&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-### Also Working With
+### Backend & Core
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+
+### Database & ORM
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+### Also Experienced With
+![Delphi](https://img.shields.io/badge/-Delphi-CC342D?style=flat-square&logo=delphi&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF6B6B?style=flat-square&logo=api&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF6B6B?style=flat-square)
 
 ---
 
-## 📊 Top Languages
+## 📊 GitHub Stats
+
+> ⚠️ As métricas abaixo refletem apenas repositórios públicos e históricos antigos,
+> não necessariamente o stack atual de trabalho.
 
 <div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeProvenci&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=58a6ff)
 
 </div>
+
 ---
 
-## 🔗 Connect
+## 🔗 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/GuilhermeProvenci)](https://github.com/GuilhermeProvenci)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-lima-a20a10269/)](https://www.linkedin.com/in/guilherme-lima-a20a10269/)
+[![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeProvenci)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-lima-a20a10269/)
 
 </div>
 
@@ -53,11 +82,10 @@
 
 <div align="center">
 
-```
-$ echo "Let's build something"
-> _
-```
+$ echo "Let's build something real"
 
-<img src="https://komarev.com/ghpvc/?username=GuilhermeProvenci&color=00ff88&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
+<img src="https://komarev.com/ghpvc/?username=GuilhermeProvenci&color=00ff88&style=flat-square&label=Profile+Views" />
 
 </div>
+
