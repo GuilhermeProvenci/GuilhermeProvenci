@@ -32,13 +32,13 @@ Paralelamente, construí do zero o **Leite Fácil**: um SaaS completo em produç
 
 | Camada | Tecnologia |
 |--------|-----------|
-| Frontend | React · TypeScript · Tailwind CSS |
-| Mobile | Capacitor (Android/iOS) |
-| Backend | Node.js · Express · TypeScript |
+| Frontend | React 19 · Vite · TypeScript · Tailwind CSS · Recharts · i18n (PT/EN/ES) |
+| Mobile | Capacitor (Android/iOS) · Expo / React Native (offline-first) |
+| Backend | Node.js · Express · TypeScript · OAuth 2.0 (JWT RS256) · class-validator · OpenAPI |
 | Banco | PostgreSQL · Drizzle ORM |
-| DevOps | Docker · GitHub Actions · CI/CD |
+| DevOps | Docker · GitHub Actions · CI/CD · Railway · Vercel · Sentry |
 | Testes | Vitest · Playwright |
-| Extras | Firebase (push) · JWT · WebSocket |
+| Extras | Firebase (push) · JWT · WebSocket · Google Play Billing · IoT (ESP32 + LoRa) |
 
 ---
 
@@ -59,6 +59,20 @@ Paralelamente, construí do zero o **Leite Fácil**: um SaaS completo em produç
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/-Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![OpenAPI](https://img.shields.io/badge/-OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
+![Sentry](https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+
+### 📡 Mobile & IoT
+![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Capacitor](https://img.shields.io/badge/-Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/-PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white)
+![Arduino C++](https://img.shields.io/badge/-Arduino_C++-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 ### ⚙️ DevOps & Tooling
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -66,6 +80,9 @@ Paralelamente, construí do zero o **Leite Fácil**: um SaaS completo em produç
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![pnpm](https://img.shields.io/badge/-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Remotion](https://img.shields.io/badge/-Remotion-0B84F3?style=flat-square&logo=remotion&logoColor=white)
 
 ---
 
