@@ -90,7 +90,10 @@ Paralelamente, construí do zero o **Leite Fácil**: um SaaS completo em produç
 
 ## 💼 Experience
 ```
-2026 – presente  │ Delphi Developer · Twiniti Tech / RBA Sistemas
+2026 – presente  │ Delphi Developer (Financeiro) · Santri Sistemas
+                 │ ERP ADM · time financeiro · Delphi + Oracle
+
+2026             │ Delphi Developer · Twiniti Tech / RBA Sistemas
                  │ ERP legado Genesis · sistema de logging centralizado
 
 2025             │ Software Developer · Grupo Limber Software  
