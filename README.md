@@ -34,7 +34,7 @@ Paralelamente, construí do zero o **Leite Fácil**: um SaaS completo em produç
 |--------|-----------|
 | Frontend | React 19 · Vite · TypeScript · Tailwind CSS · Recharts · i18n (PT/EN/ES) |
 | Mobile | Capacitor (Android/iOS) · Expo / React Native (offline-first) |
-| Backend | Node.js · Express · TypeScript · OAuth 2.0 (JWT RS256) · class-validator · OpenAPI |
+| Backend | Node.js · NestJS · Express · TypeScript · OAuth 2.0 (JWT RS256) · class-validator · OpenAPI |
 | Banco | PostgreSQL · Drizzle ORM |
 | DevOps | Docker · GitHub Actions · CI/CD · Railway · Vercel · Sentry |
 | Testes | Vitest · Playwright |
@@ -54,6 +54,7 @@ Paralelamente, construí do zero o **Leite Fácil**: um SaaS completo em produç
 ### 🌐 Modern Web & APIs
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -73,6 +74,7 @@ Paralelamente, construí do zero o **Leite Fácil**: um SaaS completo em produç
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/-PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white)
 ![Arduino C++](https://img.shields.io/badge/-Arduino_C++-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ### ⚙️ DevOps & Tooling
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
